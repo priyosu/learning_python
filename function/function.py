@@ -14,3 +14,5 @@ def avrg(a ,b ,c):
     print(avg)
     return sum
 avrg(1,2,3)
+
+#To be continued 
