@@ -7,3 +7,10 @@ print(sum)
 def print_this():
     print("Hello World")
 print_this()
+
+def avrg(a ,b ,c):
+    sum = a+b+c
+    avg = sum/3
+    print(avg)
+    return sum
+avrg(1,2,3)
